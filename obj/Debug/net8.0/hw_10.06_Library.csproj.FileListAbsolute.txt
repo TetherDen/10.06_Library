@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_10.06_Library\bin\Debug\net8.0\hw_10.06_Library.exe
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_10.06_Library\bin\Debug\net8.0\hw_10.06_Library.deps.json
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_10.06_Library\bin\Debug\net8.0\hw_10.06_Library.runtimeconfig.json
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_10.06_Library\bin\Debug\net8.0\hw_10.06_Library.dll
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_10.06_Library\bin\Debug\net8.0\hw_10.06_Library.pdb
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_10.06_Library\obj\Debug\net8.0\hw_10.06_Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_10.06_Library\obj\Debug\net8.0\hw_10.06_Library.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_10.06_Library\obj\Debug\net8.0\hw_10.06_Library.AssemblyInfo.cs
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_10.06_Library\obj\Debug\net8.0\hw_10.06_Library.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_10.06_Library\obj\Debug\net8.0\hw_10.06_Library.dll
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_10.06_Library\obj\Debug\net8.0\refint\hw_10.06_Library.dll
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_10.06_Library\obj\Debug\net8.0\hw_10.06_Library.pdb
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_10.06_Library\obj\Debug\net8.0\hw_10.06_Library.genruntimeconfig.cache
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_10.06_Library\obj\Debug\net8.0\ref\hw_10.06_Library.dll
